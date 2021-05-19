@@ -11,7 +11,7 @@
 #define MAX 30
 
 // we dont use complex data structure in this program
-// This version is edited by Github editor
+// This version is edited from shell.
 
 void input_scores(int []);
 void evaluation(int [], int[]);
